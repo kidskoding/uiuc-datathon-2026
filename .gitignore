@@ -213,3 +213,5 @@ data/
 
 # Model outputs
 output/models/
+
+.DS_Store
